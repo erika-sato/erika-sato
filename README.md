@@ -6,7 +6,9 @@
 
 - 💼 &nbsp; Foco no Desenvolvimento de <strong>Soluções Web</strong> com JS.
 - 🎓 &nbsp; Formada em Engenharia de Produção (<strong>amor pelas exatas!</strong>)
-- 🌱 &nbsp; Meu objetivo é ser a melhor <strong>Desenvolvedora Front-End React.JS</strong>
+- 🌱 &nbsp; Meta: ser a melhor <strong>Desenvolvedora Front-End React.JS</strong>
+
+<br/>
 
 ## 💻 Minhas Habilidades
 
