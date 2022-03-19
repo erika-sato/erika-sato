@@ -43,6 +43,8 @@
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-333333?style=flat&logo=amazon-aws)
 
+<br/>
+
 ## 📱 Onde me encontrar
 
 
@@ -50,10 +52,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-eerikasato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eerikasato@gmail.com)](mailto:eerikasato@gmail.com)
 [![GitHub Erika Sato]( https://img.shields.io/github/followers/erika-sato?label=follow&style=social)](https://github.com/erika-sato/)
 
+<br/>
 
 ## ⭐ Informações sobre minha conta GitHub
 
-<a href="https://github.com/erika-sato">
-  <img height="195em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erika-sato&layout=compact&langs_count=7&theme=dracula"/>
-  <img heigth="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=erika-sato&theme=dracula&show_icons=true" />
-</a>
+<div align="center">
+  <img height="195em" width="375em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erika-sato&layout=compact&langs_count=7&theme=dracula"/>
+  <img heigth="200em" width="375em" src="https://github-readme-stats.vercel.app/api?username=erika-sato&layout=compact&langs_count=7&theme=dracula" />
+<div/>
