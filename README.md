@@ -43,7 +43,7 @@
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-333333?style=flat&logo=amazon-aws)
 
-<br/>
+<br/> 
 
 ## 📱 Onde me encontrar
 
