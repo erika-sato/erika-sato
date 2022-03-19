@@ -54,6 +54,6 @@
 ## ⭐ Informações sobre minha conta GitHub
 
 <a href="https://github.com/erika-sato">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erika-sato&layout=compact&langs_count=7&theme=dracula"/>
-  <img heigth="200em" src="https://github-readme-stats.vercel.app/api?username=erika-sato&theme=dracula&show_icons=true" />
+  <img height="195em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erika-sato&layout=compact&langs_count=7&theme=dracula"/>
+  <img heigth="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=erika-sato&theme=dracula&show_icons=true" />
 </a>
