@@ -40,8 +40,8 @@
  
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-333333?style=flat&logo=amazon-aws)
 
 ## 📱 Onde me encontrar
 
