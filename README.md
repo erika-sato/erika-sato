@@ -1,5 +1,6 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+## 💜 Olá, meu nome é <strong>Érika!</strong>
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
@@ -44,16 +45,18 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-<br/>
 
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+## 📱 Onde me encontrar
+
+
+[![Linkedin: Erika Sato](https://img.shields.io/badge/-Érika%20Sato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erika-sato/)](https://www.linkedin.com/in/erika-sato/)
+[![Gmail Badge](https://img.shields.io/badge/-eerikasato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eerikasato@gmail.com)](mailto:eerikasato@gmail.com)
+[![GitHub Erika Sato]( https://img.shields.io/github/followers/erika-sato?label=follow&style=social)](https://github.com/erika-sato/)
+
+
+## ⭐ Informações sobre minha conta GitHub
+
+<a href="https://github.com/erika-sato">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erika-sato&layout=compact&langs_count=7&theme=dracula"/>
+  <img  heigth="200em" src="https://github-readme-stats.vercel.app/api?username=erika-sato&theme=dracula&show_icons=true" />
 </a>
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
