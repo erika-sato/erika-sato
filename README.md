@@ -4,9 +4,9 @@
 
 <br/>
 
-- 💼 &nbsp; Foco no Desenvolvimento de <strong>Soluções Web</strong> com JS.
-- 🎓 &nbsp; Formada em Engenharia de Produção (<strong>amor pelas exatas!</strong>)
-- 🌱 &nbsp; Meta: ser a melhor <strong>Desenvolvedora Front-End React.JS</strong>
+- 💼 &nbsp; Foco no Desenvolvimento de <strong>aplicações Front-End com React</strong>.
+- 🎓 &nbsp; Formada em Engenharia de Produção e Biomedicina
+- 🌱 &nbsp; Atuo como <strong>Desenvolvedora Full Stack React.JS e Node.JS</strong>
 
 <br/>
 
@@ -24,6 +24,7 @@
   ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 
 **Ferramentas de Desenvolvimento**
@@ -38,7 +39,7 @@
   
  **Interesse em Aprender**
  
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-333333?style=flat&logo=amazon-aws)
